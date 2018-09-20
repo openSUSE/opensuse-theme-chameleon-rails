@@ -1,6 +1,3 @@
-[submodule "lib/opensuse-theme-chameleon/opensuse-theme-chameleon"]
-	path = lib/opensuse-theme-chameleon/opensuse-theme-chameleon
-	url = git://github.com/openSUSE/opensuse-theme-chameleon.git
 [submodule "opensuse-theme-chameleon"]
 	path = opensuse-theme-chameleon
 	url = git://github.com/openSUSE/opensuse-theme-chameleon.git
