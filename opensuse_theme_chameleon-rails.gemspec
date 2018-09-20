@@ -1,12 +1,12 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/opensuse-theme-chameleon/rails/version', __FILE__)
+require File.expand_path('../lib/opensuse_theme_chameleon/rails/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "opensuse-theme-chameleon-rails"
+  s.name        = "opensuse_theme_chameleon-rails"
   s.version     = OpensuseThemeChameleon::Rails::VERSION
   s.authors     = ["Duncan Mac-Vicar P."]
   s.email       = ["dmacvicar@suse.de"]
-  s.homepage    = "https://github.com/openSUSE/opensuse-theme-chameleon-rails"
+  s.homepage    = "https://github.com/openSUSE/opensuse_theme_chameleon-rails"
   s.summary     = "Chameleon theme packaged for the Rails asset pipeline"
   s.description = "Chameleon theme JavaScript, CSS, and image files packaged for the Rails 3.1+ asset pipeline"
   s.license     = "MIT"
