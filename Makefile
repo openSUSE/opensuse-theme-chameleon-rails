@@ -13,4 +13,4 @@ update:
 	cp -r opensuse-theme-chameleon/dist/css/* app/assets/stylesheets/chameleon
 	cp -r opensuse-theme-chameleon/dist/fonts/* app/assets/fonts
 	cp -r opensuse-theme-chameleon/dist/images/* app/assets/images
-	sed -i 's,url("../fonts/,url(",g' app/assets/stylesheets/chameleon/chameleon.css
+	sed -i 's,url("../fonts/,font_url(",g' app/assets/stylesheets/chameleon/chameleon.css
